@@ -4,8 +4,6 @@
 
 **Cloud-Native Security & Identity Platform**
 
-字节矩阵（深圳）科技有限公司
-
 [![Website](https://img.shields.io/badge/Website-matrixplus.io-4F46E5?style=flat-square)](https://matrixplus.io)
 [![Email](https://img.shields.io/badge/Email-contact%40matrixplus.io-4F46E5?style=flat-square)](mailto:contact@matrixplus.io)
 [![License](https://img.shields.io/badge/License-AGPL%20v3.0-blue.svg?style=flat-square)](https://www.gnu.org/licenses/agpl-3.0)
