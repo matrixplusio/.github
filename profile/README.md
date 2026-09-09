@@ -51,6 +51,6 @@ Projects are licensed under **GNU Affero General Public License v3.0** unless ot
 
 **Built with ❤️ in Shenzhen**
 
-Copyright © 2021 - 2026 字节矩阵（深圳）科技有限公司. All rights reserved.
+Copyright © 2021 - 2026 MatrixPlus. All rights reserved.
 
 </div>
